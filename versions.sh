@@ -160,6 +160,7 @@ for version in "${versions[@]}"; do
 
 	# order here controls the order of the library/ file
 	for variant in \
+		bullseye \
 		buster \
 		stretch \
 		\
